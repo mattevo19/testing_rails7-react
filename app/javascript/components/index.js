@@ -4,6 +4,8 @@ import r from "components/htm_create";
 import TopAninme from "./top_anime";
 import Hello from "./hello";
 import TimeTeller from "./clock";
+// import Weather from "./weather";
+
 
 render(
   r`

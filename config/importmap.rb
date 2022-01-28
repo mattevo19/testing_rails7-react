@@ -19,4 +19,6 @@ pin "react-live-clock", to: "https://ga.jspm.io/npm:react-live-clock@5.6.1/lib/i
 pin "moment", to: "https://ga.jspm.io/npm:moment@2.29.1/moment.js"
 pin "moment-timezone", to: "https://ga.jspm.io/npm:moment-timezone@0.5.34/index.js"
 pin "react-moment", to: "https://ga.jspm.io/npm:react-moment@1.1.1/dist/index.js"
+pin "react-open-weather", to: "https://ga.jspm.io/npm:react-open-weather@1.1.6/lib/ReactWeather.js"
+pin "process", to: "https://ga.jspm.io/npm:@jspm/core@2.0.0-beta.14/nodelibs/browser/process-production.js"
 pin_all_from "app/javascript/components", under: "components"
